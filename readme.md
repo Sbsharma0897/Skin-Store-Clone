@@ -1,6 +1,9 @@
 # Project Skin Store Clone
 This is a group project done in unit 3 construct week at Masai School.
 
+# Netlify Link-
+https://skinstoreclone.netlify.app/
+
 ## Features
 - Login/signup
 - Searching the beauty products by their names.
